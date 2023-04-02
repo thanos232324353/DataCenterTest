@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCenterTestServer", "DataCenterTestServer\DataCenterTestServer.csproj", "{476E39F5-0C98-4840-BB40-6CD32E0A4329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCenterTestClient", "DataCenterTestClient\DataCenterTestClient.csproj", "{FD38921D-4597-4897-A3EC-15191E2DEDA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476E39F5-0C98-4840-BB40-6CD32E0A4329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476E39F5-0C98-4840-BB40-6CD32E0A4329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476E39F5-0C98-4840-BB40-6CD32E0A4329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476E39F5-0C98-4840-BB40-6CD32E0A4329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD38921D-4597-4897-A3EC-15191E2DEDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD38921D-4597-4897-A3EC-15191E2DEDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD38921D-4597-4897-A3EC-15191E2DEDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD38921D-4597-4897-A3EC-15191E2DEDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E7963F-6381-410E-A934-11FFBA551F6B}
+	EndGlobalSection
+EndGlobal
